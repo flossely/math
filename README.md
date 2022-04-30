@@ -1,2 +1,2 @@
-# Nerdamer
-Nerdamer JS library including algebra, calculus and equation solver functions.
+# Mathematics Model
+Mathematics model for web systems and server environments.
